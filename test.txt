@@ -1,2 +1,3 @@
-Hi 
-this is test file on GIT
+version https://git-lfs.github.com/spec/v1
+oid sha256:d73157845675d3ccf5ae0c196a3f78fe1bca09104e48e2b9510a64341d0aa285
+size 29
